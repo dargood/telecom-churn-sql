@@ -111,3 +111,4 @@ All ten queries are in `sql/04_analysis_queries.sql`.
 ## Author
 
 Daryle Good
+linkedin.com/in/darylegood
