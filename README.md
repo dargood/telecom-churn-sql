@@ -2,7 +2,7 @@
 
 An end-to-end analysis of customer churn for a telecom company, built with PostgreSQL and Tableau Public. The project loads and cleans raw data, designs a three-table relational schema, answers ten business questions in SQL (including CTEs and window functions), and presents the results in an interactive dashboard.
 
-**Live dashboard:** https://public.tableau.com/views/TelecomCustomerChurnAnalysis_17914270502100/TelecomChurnDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+**Live dashboard:** https://public.tableau.com/views/TelecomCustomerChurnAnalysis_17914270502100/TelecomChurnDashboard
 
 ![Dashboard screenshot](images/dashboard_screenshot.png)
 
